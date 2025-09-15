@@ -1,5 +1,5 @@
 //prg to accept one year and check whether it is leap or not.
-//developed by Ramendra date:11/09/2025
+//developed by Raj date:11/09/2025
 #include <stdio.h>
 void main()
 {
