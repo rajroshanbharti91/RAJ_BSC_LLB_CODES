@@ -1,5 +1,5 @@
 //prg to accept one Number and check whether it is divisible by 3 and 5 or not.
-//developed by Ramendra date:11/09/2025
+//developed by Raj date:11/09/2025
 #include <stdio.h>
 void main()
 {
