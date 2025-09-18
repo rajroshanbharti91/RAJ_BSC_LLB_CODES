@@ -1,0 +1,7 @@
+// program to print hello word 
+// developed by Raj 
+# include<stdio.h>
+void main()
+{
+ printf("Print Hello word ")
+ }
